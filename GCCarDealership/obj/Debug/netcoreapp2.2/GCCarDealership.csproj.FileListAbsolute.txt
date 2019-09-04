@@ -1,0 +1,14 @@
+C:\Users\JakePC\source\repos\GCCarDealership\GCCarDealership\bin\Debug\netcoreapp2.2\GCCarDealership.deps.json
+C:\Users\JakePC\source\repos\GCCarDealership\GCCarDealership\bin\Debug\netcoreapp2.2\GCCarDealership.runtimeconfig.json
+C:\Users\JakePC\source\repos\GCCarDealership\GCCarDealership\bin\Debug\netcoreapp2.2\GCCarDealership.runtimeconfig.dev.json
+C:\Users\JakePC\source\repos\GCCarDealership\GCCarDealership\bin\Debug\netcoreapp2.2\GCCarDealership.dll
+C:\Users\JakePC\source\repos\GCCarDealership\GCCarDealership\obj\Debug\netcoreapp2.2\GCCarDealership.csprojAssemblyReference.cache
+C:\Users\JakePC\source\repos\GCCarDealership\GCCarDealership\obj\Debug\netcoreapp2.2\GCCarDealership.csproj.CoreCompileInputs.cache
+C:\Users\JakePC\source\repos\GCCarDealership\GCCarDealership\obj\Debug\netcoreapp2.2\GCCarDealership.RazorAssemblyInfo.cache
+C:\Users\JakePC\source\repos\GCCarDealership\GCCarDealership\obj\Debug\netcoreapp2.2\GCCarDealership.RazorAssemblyInfo.cs
+C:\Users\JakePC\source\repos\GCCarDealership\GCCarDealership\obj\Debug\netcoreapp2.2\GCCarDealership.AssemblyInfoInputs.cache
+C:\Users\JakePC\source\repos\GCCarDealership\GCCarDealership\obj\Debug\netcoreapp2.2\GCCarDealership.AssemblyInfo.cs
+C:\Users\JakePC\source\repos\GCCarDealership\GCCarDealership\obj\Debug\netcoreapp2.2\GCCarDealership.RazorTargetAssemblyInfo.cache
+C:\Users\JakePC\source\repos\GCCarDealership\GCCarDealership\bin\Debug\netcoreapp2.2\GCCarDealership.pdb
+C:\Users\JakePC\source\repos\GCCarDealership\GCCarDealership\obj\Debug\netcoreapp2.2\GCCarDealership.dll
+C:\Users\JakePC\source\repos\GCCarDealership\GCCarDealership\obj\Debug\netcoreapp2.2\GCCarDealership.pdb
